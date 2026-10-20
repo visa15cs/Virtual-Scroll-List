@@ -1,0 +1,12 @@
+.container {
+  height: 400px;
+  overflow: auto;
+  border: 1px solid gray;
+  margin: 8px 32px;
+}
+
+.list-item {
+  height: 40px;
+  border-top: 1px solid lightblue;
+  line-height: 0.5;
+}
